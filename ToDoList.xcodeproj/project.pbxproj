@@ -19,6 +19,10 @@
 		2978959E189BBA6B004A4827 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29789586189BBA6B004A4827 /* UIKit.framework */; };
 		297895A6189BBA6B004A4827 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 297895A4189BBA6B004A4827 /* InfoPlist.strings */; };
 		297895A8189BBA6B004A4827 /* ToDoListTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 297895A7189BBA6B004A4827 /* ToDoListTests.m */; };
+		297895B2189BBD1F004A4827 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 297895B1189BBD1F004A4827 /* Main.storyboard */; };
+		297895B5189DA232004A4827 /* valentinaAddToDoItemViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 297895B4189DA232004A4827 /* valentinaAddToDoItemViewController.m */; };
+		297895B8189DA3A9004A4827 /* valentinaToDoListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 297895B7189DA3A9004A4827 /* valentinaToDoListViewController.m */; };
+		297895BB189DBD7F004A4827 /* valentinaToDoItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 297895BA189DBD7F004A4827 /* valentinaToDoItem.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +52,13 @@
 		297895A3189BBA6B004A4827 /* ToDoListTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ToDoListTests-Info.plist"; sourceTree = "<group>"; };
 		297895A5189BBA6B004A4827 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		297895A7189BBA6B004A4827 /* ToDoListTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ToDoListTests.m; sourceTree = "<group>"; };
+		297895B1189BBD1F004A4827 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		297895B3189DA232004A4827 /* valentinaAddToDoItemViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = valentinaAddToDoItemViewController.h; sourceTree = "<group>"; };
+		297895B4189DA232004A4827 /* valentinaAddToDoItemViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = valentinaAddToDoItemViewController.m; sourceTree = "<group>"; };
+		297895B6189DA3A9004A4827 /* valentinaToDoListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = valentinaToDoListViewController.h; sourceTree = "<group>"; };
+		297895B7189DA3A9004A4827 /* valentinaToDoListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = valentinaToDoListViewController.m; sourceTree = "<group>"; };
+		297895B9189DBD7F004A4827 /* valentinaToDoItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = valentinaToDoItem.h; sourceTree = "<group>"; };
+		297895BA189DBD7F004A4827 /* valentinaToDoItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = valentinaToDoItem.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +122,13 @@
 				29789592189BBA6B004A4827 /* valentinaAppDelegate.m */,
 				29789594189BBA6B004A4827 /* Images.xcassets */,
 				29789589189BBA6B004A4827 /* Supporting Files */,
+				297895B1189BBD1F004A4827 /* Main.storyboard */,
+				297895B6189DA3A9004A4827 /* valentinaToDoListViewController.h */,
+				297895B7189DA3A9004A4827 /* valentinaToDoListViewController.m */,
+				297895B9189DBD7F004A4827 /* valentinaToDoItem.h */,
+				297895BA189DBD7F004A4827 /* valentinaToDoItem.m */,
+				297895B3189DA232004A4827 /* valentinaAddToDoItemViewController.h */,
+				297895B4189DA232004A4827 /* valentinaAddToDoItemViewController.m */,
 			);
 			path = ToDoList;
 			sourceTree = "<group>";
@@ -220,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				297895B2189BBD1F004A4827 /* Main.storyboard in Resources */,
 				2978958D189BBA6B004A4827 /* InfoPlist.strings in Resources */,
 				29789595189BBA6B004A4827 /* Images.xcassets in Resources */,
 			);
@@ -241,7 +260,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				2978958F189BBA6B004A4827 /* main.m in Sources */,
+				297895B8189DA3A9004A4827 /* valentinaToDoListViewController.m in Sources */,
 				29789593189BBA6B004A4827 /* valentinaAppDelegate.m in Sources */,
+				297895BB189DBD7F004A4827 /* valentinaToDoItem.m in Sources */,
+				297895B5189DA232004A4827 /* valentinaAddToDoItemViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -366,6 +388,7 @@
 				GCC_PREFIX_HEADER = "ToDoList/ToDoList-Prefix.pch";
 				INFOPLIST_FILE = "ToDoList/ToDoList-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -379,6 +402,7 @@
 				GCC_PREFIX_HEADER = "ToDoList/ToDoList-Prefix.pch";
 				INFOPLIST_FILE = "ToDoList/ToDoList-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
