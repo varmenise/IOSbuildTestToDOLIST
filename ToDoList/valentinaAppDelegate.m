@@ -7,11 +7,13 @@
 //
 
 #import "valentinaAppDelegate.h"
+#import <NewRelicAgent/NewRelic.h>
 
 @implementation valentinaAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    [NewRelicAgent startWithApplicationToken:@"AA0ea9c48b9f4d23fdbb23f5103f169072a08a70c5"];
   
     return YES;
 }

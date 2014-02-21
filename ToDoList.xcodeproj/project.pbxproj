@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2948E81918B747D000415406 /* NewRelicAgent.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2948E81818B747D000415406 /* NewRelicAgent.framework */; };
+		2948E81B18B749A800415406 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2948E81A18B749A800415406 /* CoreTelephony.framework */; };
+		2948E81D18B749DC00415406 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 2948E81C18B749DC00415406 /* libz.dylib */; };
+		2948E81F18B749E300415406 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2948E81E18B749E300415406 /* SystemConfiguration.framework */; };
 		29789583189BBA6B004A4827 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29789582189BBA6B004A4827 /* Foundation.framework */; };
 		29789585189BBA6B004A4827 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29789584189BBA6B004A4827 /* CoreGraphics.framework */; };
 		29789587189BBA6B004A4827 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29789586189BBA6B004A4827 /* UIKit.framework */; };
@@ -36,6 +40,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2948E81818B747D000415406 /* NewRelicAgent.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = NewRelicAgent.framework; sourceTree = "<group>"; };
+		2948E81A18B749A800415406 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		2948E81C18B749DC00415406 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		2948E81E18B749E300415406 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		2978957F189BBA6B004A4827 /* ToDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		29789582189BBA6B004A4827 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		29789584189BBA6B004A4827 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -66,9 +74,13 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2948E81F18B749E300415406 /* SystemConfiguration.framework in Frameworks */,
+				2948E81D18B749DC00415406 /* libz.dylib in Frameworks */,
+				2948E81B18B749A800415406 /* CoreTelephony.framework in Frameworks */,
 				29789585189BBA6B004A4827 /* CoreGraphics.framework in Frameworks */,
 				29789587189BBA6B004A4827 /* UIKit.framework in Frameworks */,
 				29789583189BBA6B004A4827 /* Foundation.framework in Frameworks */,
+				2948E81918B747D000415406 /* NewRelicAgent.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -107,6 +119,10 @@
 		29789581189BBA6B004A4827 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				2948E81E18B749E300415406 /* SystemConfiguration.framework */,
+				2948E81C18B749DC00415406 /* libz.dylib */,
+				2948E81A18B749A800415406 /* CoreTelephony.framework */,
+				2948E81818B747D000415406 /* NewRelicAgent.framework */,
 				29789582189BBA6B004A4827 /* Foundation.framework */,
 				29789584189BBA6B004A4827 /* CoreGraphics.framework */,
 				29789586189BBA6B004A4827 /* UIKit.framework */,
@@ -384,6 +400,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/valentinaarmenise/Documents/Mobile/ToDoList,
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ToDoList/ToDoList-Prefix.pch";
 				INFOPLIST_FILE = "ToDoList/ToDoList-Info.plist";
@@ -398,6 +418,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/valentinaarmenise/Documents/Mobile/ToDoList,
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ToDoList/ToDoList-Prefix.pch";
 				INFOPLIST_FILE = "ToDoList/ToDoList-Info.plist";
@@ -468,6 +492,7 @@
 				297895AD189BBA6B004A4827 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		297895AE189BBA6B004A4827 /* Build configuration list for PBXNativeTarget "ToDoListTests" */ = {
 			isa = XCConfigurationList;
@@ -476,6 +501,7 @@
 				297895B0189BBA6B004A4827 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
