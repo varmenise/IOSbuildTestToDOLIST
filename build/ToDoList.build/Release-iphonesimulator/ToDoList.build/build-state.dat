@@ -1,0 +1,1071 @@
+TToDoList
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-fmkxwiejgkrcrgaxkanezxjbwxmz/ToDoList-Prefix.pch.pch ToDoList/ToDoList-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-aznffjhmtwlpcbcwuubctpdyhibi/ToDoList-Prefix.pch.pch ToDoList/ToDoList-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoListViewController.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAppDelegate.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoItem.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAddToDoItemViewController.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/main.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoListViewController.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAppDelegate.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoItem.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAddToDoItemViewController.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList normal i386
+cLd /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/ToDoList normal x86_64
+cCreateUniversalBinary /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/ToDoList normal i386\ x86_64
+cCompileStoryboard /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard
+cCopyStringsFile /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/en.lproj/InfoPlist.strings ToDoList/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Images.xcassets
+cProcessInfoPlistFile /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/Info.plist /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/ToDoList-Info.plist
+cGenerateDSYMFile /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app.dSYM /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/ToDoList
+cTouch /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005333E52200000000000003B4
+t1395909922
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005333E529000000000000019E
+t1395909929
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005333E52B000000000058E0E0
+t1395909931
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005333E52B00000000005B82F0
+t1395909931
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005333E52B0000000000446820
+t1395909931
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005333E52B00000000003599D0
+t1395909931
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+c000000005333E52C000000000022B660
+t1395909932
+s2274912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005333E52C00000000002FC3B0
+t1395909932
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005333E52C000000000004B000
+t1395909932
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005333E52D000000000088D8C0
+t1395909933
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005333E52E0000000000037680
+t1395909934
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005333E52E000000000048F720
+t1395909934
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005333E52F000000000013FD70
+t1395909935
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000005333E52F00000000001081C0
+t1395909935
+s1081792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005333E5320000000001F1DE10
+t1395909938
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005333E53C00000000002BC360
+t1395909948
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c000000005333E5430000000000002338
+t1395909955
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c000000005333E543000000000008D370
+t1395909955
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c000000005333E5430000000000392E20
+t1395909955
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+c000000005333E543000000000002B700
+t1395909955
+s177920
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000531072B900000000000141F0
+t1393586873
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c000000005333E5430000000000014A80
+t1395909955
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c000000005333E5430000000000033BA0
+t1395909955
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c000000005333E543000000000001CFB0
+t1395909955
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c000000005333E543000000000001B2B0
+t1395909955
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005333E54300000000000C9570
+t1395909955
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c000000005333E5430000000000063280
+t1395909955
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c000000005333E5430000000000008880
+t1395909955
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005333E5430000000000015080
+t1395909955
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005333E54300000000000230F0
+t1395909955
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c000000005333E543000000000000E380
+t1395909955
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c000000005333E5430000000000089380
+t1395909955
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c000000005333E5430000000000017320
+t1395909955
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c000000005333E5430000000000039CD0
+t1395909955
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c000000005333E543000000000000B0B0
+t1395909955
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c000000005333E5430000000000167E80
+t1395909955
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005333E54300000000000106A0
+t1395909955
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005333E543000000000001CE40
+t1395909955
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005333E54300000000000740C0
+t1395909955
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005333E543000000000006CA60
+t1395909955
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c000000005333E543000000000001BAD0
+t1395909955
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c000000005333E5430000000000084A20
+t1395909955
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005333E5470000000000000ADC
+t1395909959
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c000000005333E547000000000000514C
+t1395909959
+s20812
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Headers/NRConstants.h
+c0000000052EB6EF20000000000000C63
+t1391161074
+s3171
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Headers/NRGCDOverride.h
+c0000000052EB6EF200000000000004D6
+t1391161074
+s1238
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Headers/NRLogger.h
+c0000000052EB6EF20000000000001434
+t1391161074
+s5172
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Headers/NRTimer.h
+c0000000052EB6EF200000000000004A5
+t1391161074
+s1189
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Headers/NewRelic.h
+c0000000052EB6EF20000000000005420
+t1391161074
+s21536
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/NewRelicAgent
+c0000000052EB6F060000000000BDECE4
+t1391161094
+s12446948
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Versions/A/NewRelicAgent
+c0000000052EB6F060000000000BDECE4
+t1391161094
+s12446948
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Images.xcassets
+c0000000052EB82EB0000000000000088
+t1391166187
+s136
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard
+c0000000052EE9B4E0000000000005596
+t1391369038
+s21910
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/ToDoList-Info.plist
+c0000000052EB864D00000000000005E8
+t1391167053
+s1512
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/ToDoList-Prefix.pch
+c0000000052EB82EB0000000000000158
+t1391166187
+s344
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/en.lproj/InfoPlist.strings
+c0000000052EB82EB000000000000002D
+t1391166187
+s45
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/main.m
+c0000000052EB82EB0000000000000175
+t1391166187
+s373
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.h
+c0000000052EE99BA0000000000000157
+t1391368634
+s343
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.m
+c0000000052EE99C800000000000004D9
+t1391368648
+s1241
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.h
+c0000000052EB82EB0000000000000139
+t1391166187
+s313
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.m
+c0000000053071356000000000000083E
+t1392972630
+s2110
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.h
+c0000000052EE816B0000000000000156
+t1391362411
+s342
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.m
+c0000000052ED865E00000000000000E8
+t1391298142
+s232
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.h
+c0000000052EE84DD0000000000000136
+t1391363293
+s310
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m
+c0000000052EE9BC900000000000013C0
+t1391369161
+s5056
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app
+t1397056031
+s306
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app.dSYM
+t1397056031
+s102
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/Info.plist
+t1397056031
+s1225
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/Main.storyboardc
+t1397056031
+s238
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/PkgInfo
+t1397056031
+s8
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/ToDoList
+t1397056028
+s1510164
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/en.lproj/InfoPlist.strings
+t1397056028
+s42
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList
+t1397056028
+s720596
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList.LinkFileList
+c000000005345621A0000000000000308
+t1397056026
+s776
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o
+t1397056028
+s3576
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAddToDoItemViewController.o
+t1397056028
+s51968
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAppDelegate.o
+t1397056028
+s63084
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoItem.o
+t1397056028
+s8748
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoListViewController.o
+t1397056028
+s57468
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/ToDoList
+t1397056028
+s785172
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/ToDoList.LinkFileList
+c000000005345621A0000000000000312
+t1397056026
+s786
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/main.o
+t1397056028
+s4020
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAddToDoItemViewController.o
+t1397056028
+s54904
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAppDelegate.o
+t1397056028
+s69456
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoItem.o
+t1397056028
+s10284
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoListViewController.o
+t1397056028
+s60916
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/assetcatalog_dependencies.txt
+t1397056029
+s388
+
+N/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/assetcatalog_generated_info.plist
+t1397056029
+s525
+
+N/usr/lib/libSystem.B.dylib
+c0000000052AF33FD000000000000E6D0
+t1387213821
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000052AF340C0000000000012A00
+t1387213836
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052AF33F0000000000002E320
+t1387213808
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000052AF33FD0000000000021860
+t1387213821
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052AF340B000000000001B620
+t1387213835
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000052AF340B00000000000BD920
+t1387213835
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052AF340C000000000000A120
+t1387213836
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000531072B9000000000001D550
+t1393586873
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000052AF340B0000000000014EE0
+t1387213835
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000052AF340E0000000000010380
+t1387213838
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052AF340E000000000000C4C0
+t1387213838
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000052AF340C00000000000357A0
+t1387213836
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052AF340C000000000000C070
+t1387213836
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000531072B90000000000010630
+t1393586873
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000530299D0000000000001DF10
+t1392679376
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000052AF33FD0000000000075B00
+t1387213821
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000530299D0000000000007CCE0
+t1392679376
+s511200
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000052AF33FD00000000000766C0
+t1387213821
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000052AF33FD0000000000021FA0
+t1387213821
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000531072B9000000000002D920
+t1393586873
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052AF340C000000000001E570
+t1387213836
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000531072B9000000000000CC70
+t1393586873
+s52336
+
+N/usr/lib/system/libsystem_stats.dylib
+c00000000531072B90000000000009A80
+t1393586873
+s39552
+
+N/usr/lib/system/libunc.dylib
+c0000000052AF3406000000000000C3F0
+t1387213830
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000052AF340D00000000000199F0
+t1387213837
+s104944
+
+N/var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-aznffjhmtwlpcbcwuubctpdyhibi/ToDoList-Prefix.pch.pch
+t1397056028
+s117368
+
+N/var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-fmkxwiejgkrcrgaxkanezxjbwxmz/ToDoList-Prefix.pch.pch
+t1397056028
+s116648
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6d6ff7cc9bf5b841^dbf817cd9bf5b841^---0#1#1#--18"Check dependencies36"E50FD8A9-3C4C-45AC-8043-FBC8DEC7E2E4-
+
+CCompileAssetCatalog /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Images.xcassets
+s418748828.980780
+e418748829.849908
+r1
+xCompileAssetCatalog
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Images.xcassets
+o2014-04-09 17:07:09.739 IBCocoaTouchImageCatalogTool[8320:303] CFPreferences: user home directory at file:///Users/valentinaarmenise/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/LaunchImage-700-568h@2x.png
+o/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/Assets.car
+o/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/ToDoList.app [1mToDoList/Images.xcassets[0m103"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/ToDoList.app [1mToDoList/Images.xcassets[0m8f35fb9c99f5b841^ee95d99d99f5b841^-651"2014-04-09 17:07:09.739 IBCocoaTouchImageCatalogTool[8320:303] CFPreferences: user home directory at file:///Users/valentinaarmenise/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/LaunchImage-700-568h@2x.png/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/Assets.car/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@83"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Images.xcassets/0000000000000000^1259"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/ToDoList.app [1mToDoList/Images.xcassets[0m    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Images.xcassets36"427075D8-02D1-447A-AFCF-60086ED70B1F-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418748828.160449
+e418748828.286059
+r1
+xCompileC
+xbuild/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/main.m
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/main.m195"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o [1mToDoList/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler382c299c99f5b841^a59e499c99f5b841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/main.m0000000000000000^3957"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o [1mToDoList/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources/i386 -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources -F/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator -F. -FToDoList -FToDoListTests -FToDoList/Images.xcassets -FToDoList/Images.xcassets/AppIcon.appiconset -FToDoList/Images.xcassets/LaunchImage.launchimage -F/Users/valentinaarmenise/Documents/Mobile/ToDoList -include /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-fmkxwiejgkrcrgaxkanezxjbwxmz/ToDoList-Prefix.pch -MMD -MT dependencies -MF /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/main.dia -c /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/main.m -o /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o36"F0535655-2C02-4EC3-B67E-9D50C573F8F6-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAddToDoItemViewController.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418748828.286299
+e418748828.422007
+r1
+xCompileC
+xbuild/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAddToDoItemViewController.o
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.m
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.h
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.m255"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAddToDoItemViewController.o [1mToDoList/valentinaAddToDoItemViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler556b499c99f5b841^761b6c9c99f5b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.m0000000000000000^4137"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAddToDoItemViewController.o [1mToDoList/valentinaAddToDoItemViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources/i386 -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources -F/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator -F. -FToDoList -FToDoListTests -FToDoList/Images.xcassets -FToDoList/Images.xcassets/AppIcon.appiconset -FToDoList/Images.xcassets/LaunchImage.launchimage -F/Users/valentinaarmenise/Documents/Mobile/ToDoList -include /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-fmkxwiejgkrcrgaxkanezxjbwxmz/ToDoList-Prefix.pch -MMD -MT dependencies -MF /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAddToDoItemViewController.d --serialize-diagnostics /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAddToDoItemViewController.dia -c /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.m -o /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAddToDoItemViewController.o36"49B982B8-3ACF-4698-9D1A-40C6882F1D5A-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAppDelegate.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418748828.161073
+e418748828.302916
+r1
+xCompileC
+xbuild/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAppDelegate.o
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.m
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.h
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Headers/NewRelic.h
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Headers/NRConstants.h
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Headers/NRTimer.h
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Headers/NRLogger.h
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Headers/NRGCDOverride.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.m227"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAppDelegate.o [1mToDoList/valentinaAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8c85299c99f5b841^c4cd4d9c99f5b841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.m0000000000000000^4053"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAppDelegate.o [1mToDoList/valentinaAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources/i386 -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources -F/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator -F. -FToDoList -FToDoListTests -FToDoList/Images.xcassets -FToDoList/Images.xcassets/AppIcon.appiconset -FToDoList/Images.xcassets/LaunchImage.launchimage -F/Users/valentinaarmenise/Documents/Mobile/ToDoList -include /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-fmkxwiejgkrcrgaxkanezxjbwxmz/ToDoList-Prefix.pch -MMD -MT dependencies -MF /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAppDelegate.d --serialize-diagnostics /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAppDelegate.dia -c /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.m -o /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAppDelegate.o36"06C901AD-D07F-46F6-B956-E4C5C448E739-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoItem.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418748828.161479
+e418748828.289527
+r1
+xCompileC
+xbuild/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoItem.o
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.m
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.m221"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoItem.o [1mToDoList/valentinaToDoItem.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercc7a299c99f5b841^d9214a9c99f5b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.m0000000000000000^4035"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoItem.o [1mToDoList/valentinaToDoItem.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources/i386 -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources -F/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator -F. -FToDoList -FToDoListTests -FToDoList/Images.xcassets -FToDoList/Images.xcassets/AppIcon.appiconset -FToDoList/Images.xcassets/LaunchImage.launchimage -F/Users/valentinaarmenise/Documents/Mobile/ToDoList -include /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-fmkxwiejgkrcrgaxkanezxjbwxmz/ToDoList-Prefix.pch -MMD -MT dependencies -MF /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoItem.d --serialize-diagnostics /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoItem.dia -c /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.m -o /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoItem.o36"81D45347-D20A-404D-890D-DC92F5C4E76D-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoListViewController.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418748828.160744
+e418748828.335365
+r1
+xCompileC
+xbuild/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoListViewController.o
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.h
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.h
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.h
+o[1m/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m:80:2: [0m[0;1;35mwarning: [0m[1m
+o      Potentially incomplete method implementation. [-W#warnings][0m
+o#warning Potentially incomplete method implementation.
+o[0;1;32m ^
+o[0m[1m/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m:87:2: [0m[0;1;35mwarning: [0m[1m
+o      Incomplete method implementation. [-W#warnings][0m
+o#warning Incomplete method implementation.
+o[0;1;32m ^
+o[0m2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m249"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoListViewController.o [1mToDoList/valentinaToDoListViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler164b299c99f5b841^87df559c99f5b841^-550"[1m/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m:80:2: [0m[0;1;35mwarning: [0m[1m      Potentially incomplete method implementation. [-W#warnings][0m#warning Potentially incomplete method implementation.[0;1;32m ^[0m[1m/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m:87:2: [0m[0;1;35mwarning: [0m[1m      Incomplete method implementation. [-W#warnings][0m#warning Incomplete method implementation.[0;1;32m ^[0m2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@45"Potentially incomplete method implementation.-418748828#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@100"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m0000000000000000^79#1#79#1#1997#0#18"#warning Directive--2@33"Incomplete method implementation.-418748828#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@100"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m0000000000000000^86#1#86#1#2198#0#18"#warning Directive--0#0#1#-19%DVTDocumentLocation4@100"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m0000000000000000^4119"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoListViewController.o [1mToDoList/valentinaToDoListViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources/i386 -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources -F/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator -F. -FToDoList -FToDoListTests -FToDoList/Images.xcassets -FToDoList/Images.xcassets/AppIcon.appiconset -FToDoList/Images.xcassets/LaunchImage.launchimage -F/Users/valentinaarmenise/Documents/Mobile/ToDoList -include /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-fmkxwiejgkrcrgaxkanezxjbwxmz/ToDoList-Prefix.pch -MMD -MT dependencies -MF /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoListViewController.d --serialize-diagnostics /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoListViewController.dia -c /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m -o /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoListViewController.o36"20EFA5EE-2A40-4FDD-AD7C-4D578284012B-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/main.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418748828.290239
+e418748828.346123
+r1
+xCompileC
+xbuild/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/main.o
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/main.m
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/main.m199"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/main.o [1mToDoList/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerbe694a9c99f5b841^09a4589c99f5b841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/main.m0000000000000000^3971"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/main.o [1mToDoList/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources/x86_64 -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources -F/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator -F. -FToDoList -FToDoListTests -FToDoList/Images.xcassets -FToDoList/Images.xcassets/AppIcon.appiconset -FToDoList/Images.xcassets/LaunchImage.launchimage -F/Users/valentinaarmenise/Documents/Mobile/ToDoList -include /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-aznffjhmtwlpcbcwuubctpdyhibi/ToDoList-Prefix.pch -MMD -MT dependencies -MF /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/main.dia -c /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/main.m -o /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/main.o36"AAEA05F4-36D0-4F10-867A-E60A2F9D4D4A-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAddToDoItemViewController.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418748828.412113
+e418748828.492628
+r1
+xCompileC
+xbuild/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAddToDoItemViewController.o
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.m
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.h
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.m259"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAddToDoItemViewController.o [1mToDoList/valentinaAddToDoItemViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9da0699c99f5b841^b41e7e9c99f5b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.m0000000000000000^4151"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAddToDoItemViewController.o [1mToDoList/valentinaAddToDoItemViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources/x86_64 -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources -F/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator -F. -FToDoList -FToDoListTests -FToDoList/Images.xcassets -FToDoList/Images.xcassets/AppIcon.appiconset -FToDoList/Images.xcassets/LaunchImage.launchimage -F/Users/valentinaarmenise/Documents/Mobile/ToDoList -include /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-aznffjhmtwlpcbcwuubctpdyhibi/ToDoList-Prefix.pch -MMD -MT dependencies -MF /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAddToDoItemViewController.d --serialize-diagnostics /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAddToDoItemViewController.dia -c /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.m -o /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAddToDoItemViewController.o36"D437A79C-2265-4146-BD22-31B5B7A03B29-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAppDelegate.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418748828.335628
+e418748828.441835
+r1
+xCompileC
+xbuild/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAppDelegate.o
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.m
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.h
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Headers/NewRelic.h
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Headers/NRConstants.h
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Headers/NRTimer.h
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Headers/NRLogger.h
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Headers/NRGCDOverride.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.m231"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAppDelegate.o [1mToDoList/valentinaAppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd40b569c99f5b841^5c1c719c99f5b841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.m0000000000000000^4067"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAppDelegate.o [1mToDoList/valentinaAppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources/x86_64 -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources -F/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator -F. -FToDoList -FToDoListTests -FToDoList/Images.xcassets -FToDoList/Images.xcassets/AppIcon.appiconset -FToDoList/Images.xcassets/LaunchImage.launchimage -F/Users/valentinaarmenise/Documents/Mobile/ToDoList -include /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-aznffjhmtwlpcbcwuubctpdyhibi/ToDoList-Prefix.pch -MMD -MT dependencies -MF /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAppDelegate.d --serialize-diagnostics /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAppDelegate.dia -c /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAppDelegate.m -o /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAppDelegate.o36"CD2F2D23-B9C3-425A-8679-14B391B4FCE1-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoItem.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418748828.346921
+e418748828.411719
+r1
+xCompileC
+xbuild/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoItem.o
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.m
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.m225"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoItem.o [1mToDoList/valentinaToDoItem.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc6f8589c99f5b841^4966699c99f5b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.m0000000000000000^4049"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoItem.o [1mToDoList/valentinaToDoItem.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources/x86_64 -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources -F/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator -F. -FToDoList -FToDoListTests -FToDoList/Images.xcassets -FToDoList/Images.xcassets/AppIcon.appiconset -FToDoList/Images.xcassets/LaunchImage.launchimage -F/Users/valentinaarmenise/Documents/Mobile/ToDoList -include /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-aznffjhmtwlpcbcwuubctpdyhibi/ToDoList-Prefix.pch -MMD -MT dependencies -MF /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoItem.d --serialize-diagnostics /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoItem.dia -c /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.m -o /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoItem.o36"FF037195-2817-4742-9234-1ED912371436-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CCompileC build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoListViewController.o /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418748828.303238
+e418748828.452428
+r1
+xCompileC
+xbuild/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoListViewController.o
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.h
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoItem.h
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaAddToDoItemViewController.h
+o[1m/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m:80:2: [0m[0;1;35mwarning: [0m[1m
+o      Potentially incomplete method implementation. [-W#warnings][0m
+o#warning Potentially incomplete method implementation.
+o[0;1;32m ^
+o[0m[1m/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m:87:2: [0m[0;1;35mwarning: [0m[1m
+o      Incomplete method implementation. [-W#warnings][0m
+o#warning Incomplete method implementation.
+o[0;1;32m ^
+o[0m2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m253"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoListViewController.o [1mToDoList/valentinaToDoListViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler33c04d9c99f5b841^63d2739c99f5b841^-550"[1m/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m:80:2: [0m[0;1;35mwarning: [0m[1m      Potentially incomplete method implementation. [-W#warnings][0m#warning Potentially incomplete method implementation.[0;1;32m ^[0m[1m/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m:87:2: [0m[0;1;35mwarning: [0m[1m      Incomplete method implementation. [-W#warnings][0m#warning Incomplete method implementation.[0;1;32m ^[0m2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@45"Potentially incomplete method implementation.-418748828#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@100"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m0000000000000000^79#1#79#1#1997#0#18"#warning Directive--2@33"Incomplete method implementation.-418748828#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@100"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m0000000000000000^86#1#86#1#2198#0#18"#warning Directive--0#0#1#-19%DVTDocumentLocation4@100"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m0000000000000000^4133"[1mCompileC[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoListViewController.o [1mToDoList/valentinaToDoListViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources/x86_64 -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources -F/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator -F. -FToDoList -FToDoListTests -FToDoList/Images.xcassets -FToDoList/Images.xcassets/AppIcon.appiconset -FToDoList/Images.xcassets/LaunchImage.launchimage -F/Users/valentinaarmenise/Documents/Mobile/ToDoList -include /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-aznffjhmtwlpcbcwuubctpdyhibi/ToDoList-Prefix.pch -MMD -MT dependencies -MF /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoListViewController.d --serialize-diagnostics /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoListViewController.dia -c /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/valentinaToDoListViewController.m -o /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoListViewController.o36"1E434C52-F41C-4AAA-A6D3-628F16D6F882-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CCompileStoryboard /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard
+s418748828.980197
+e418748831.030408
+r1
+xCompileStoryboard
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard
+o2014-04-09 17:07:09.807 Interface Builder Cocoa Touch Tool[8319:303] CFPreferences: user home directory at file:///Users/valentinaarmenise/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2014-04-09 17:07:10.816 Interface Builder Cocoa Touch Tool[8323:303] CFPreferences: user home directory at file:///Users/valentinaarmenise/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.ibtool.document.warnings */
+o/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard:wmD-HF-NtZ: warning: Prototype table cells must have reuse identifiers [9]
+o/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard:VtK-Fu-Gxv: warning: Prototype table cells must have reuse identifiers [9]
+o/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard:AtU-4t-aq3: warning: Prototype table cells must have reuse identifiers [9]
+o/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard:GCV-zC-kpA: warning: Prototype table cells must have reuse identifiers [9]
+o/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard:OPX-bg-z3T: warning: Prototype table cells must have reuse identifiers [9]
+o/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard:bhL-uS-aQL: warning: Prototype table cells must have reuse identifiers [9]
+o/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard:Drg-VM-TGH: warning: Prototype table cells must have reuse identifiers [9]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"[1mCompileStoryboard[0m [1mToDoList/Main.storyboard[0m58"[1mCompileStoryboard[0m [1mToDoList/Main.storyboard[0m2d06fb9c99f5b841^79c9079f99f5b841^-1552"2014-04-09 17:07:09.807 Interface Builder Cocoa Touch Tool[8319:303] CFPreferences: user home directory at file:///Users/valentinaarmenise/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2014-04-09 17:07:10.816 Interface Builder Cocoa Touch Tool[8323:303] CFPreferences: user home directory at file:///Users/valentinaarmenise/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.ibtool.document.warnings *//Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard:wmD-HF-NtZ: warning: Prototype table cells must have reuse identifiers/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard:VtK-Fu-Gxv: warning: Prototype table cells must have reuse identifiers/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard:AtU-4t-aq3: warning: Prototype table cells must have reuse identifiers/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard:GCV-zC-kpA: warning: Prototype table cells must have reuse identifiers/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard:OPX-bg-z3T: warning: Prototype table cells must have reuse identifiers/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard:bhL-uS-aQL: warning: Prototype table cells must have reuse identifiers/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard:Drg-VM-TGH: warning: Prototype table cells must have reuse identifiers7(21%IDEActivityLogMessage2@49"Prototype table cells must have reuse identifiers-418748831#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@82"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-418748831#18446744073709551615#0#-1#-3@82"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-418748831#18446744073709551615#0#-1#-3@82"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-418748831#18446744073709551615#0#-1#-3@82"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-418748831#18446744073709551615#0#-1#-3@82"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-418748831#18446744073709551615#0#-1#-3@82"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-418748831#18446744073709551615#0#-1#-3@82"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#1#-19%DVTDocumentLocation4@82"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard0000000000000000^929"[1mCompileStoryboard[0m [1mToDoList/Main.storyboard[0m    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/Main.storyboardc /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/Main.storyboard36"1634FCEB-6BE5-4FCF-A9DF-B0C5E069B70F-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CCopyStringsFile /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/en.lproj/InfoPlist.strings ToDoList/en.lproj/InfoPlist.strings
+s418748828.980292
+e418748828.985177
+r1
+xCopyStringsFile
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/en.lproj/InfoPlist.strings
+xToDoList/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy ToDoList/en.lproj/InfoPlist.strings129"[1mCopyStringsFile[0m build/Release-iphonesimulator/ToDoList.app/en.lproj/InfoPlist.strings ToDoList/en.lproj/InfoPlist.strings6b0ffb9c99f5b841^0535fc9c99f5b841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/en.lproj/InfoPlist.strings0000000000000000^690"[1mCopyStringsFile[0m build/Release-iphonesimulator/ToDoList.app/en.lproj/InfoPlist.strings ToDoList/en.lproj/InfoPlist.strings    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/en.lproj -- ToDoList/en.lproj/InfoPlist.strings36"507DE410-C0F4-43E2-88BF-CE0B724755A1-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CCreateUniversalBinary /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/ToDoList normal i386\ x86_64
+s418748828.889271
+e418748828.979673
+r1
+xCreateUniversalBinary
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/ToDoList
+xnormal
+xi386 x86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Create universal binary /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/ToDoList109"[1mCreateUniversalBinary[0m [1mbuild/Release-iphonesimulator/ToDoList.app/ToDoList[0m normal i386\ x86_6423bee39c99f5b841^f7ccfa9c99f5b841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/ToDoList0034ac45deffdf42^935"[1mCreateUniversalBinary[0m [1mbuild/Release-iphonesimulator/ToDoList.app/ToDoList[0m normal i386\ x86_64    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/ToDoList -output /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/ToDoList36"FA9F3D9E-0A55-434A-94A5-6CE02B3CC51E-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CGenerateDSYMFile /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app.dSYM /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/ToDoList
+s418748831.033269
+e418748831.122750
+r1
+xGenerateDSYMFile
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app.dSYM
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/ToDoList
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Generate /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app.dSYM132"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/ToDoList.app.dSYM[0m build/Release-iphonesimulator/ToDoList.app/ToDoList3f90089f99f5b841^b37a1f9f99f5b841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app.dSYM0034ac45deffdf42^766"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/ToDoList.app.dSYM[0m build/Release-iphonesimulator/ToDoList.app/ToDoList    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/ToDoList -o /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app.dSYM36"F6E8E2B0-2C46-42F2-AA1A-ADB46FB576E9-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CLd /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList normal i386
+s418748828.493460
+e418748828.888428
+r1
+xLd
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList
+xnormal
+xi386
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/main.o
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoListViewController.o
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAppDelegate.o
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaToDoItem.o
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/valentinaAddToDoItemViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Versions/A/NewRelicAgent
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Link /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList111"[1mLd[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList normal i3868c657e9c99f5b841^8b70e39c99f5b841^---0#0#1#--1869"[1mLd[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList normal i386    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator -F/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator -F. -FToDoList -FToDoListTests -FToDoList/Images.xcassets -FToDoList/Images.xcassets/AppIcon.appiconset -FToDoList/Images.xcassets/LaunchImage.launchimage -F/Users/valentinaarmenise/Documents/Mobile/ToDoList -filelist /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework SystemConfiguration -lz -framework CoreTelephony -framework CoreGraphics -framework UIKit -framework Foundation -framework NewRelicAgent -Xlinker -dependency_info -Xlinker /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList_dependency_info.dat -o /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/i386/ToDoList36"D2D8EB67-DE4A-4EB8-B2E5-BED64C31DBC2-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CLd /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/ToDoList normal x86_64
+s418748828.493813
+e418748828.607207
+r1
+xLd
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/ToDoList
+xnormal
+xx86_64
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/ToDoList.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/main.o
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoListViewController.o
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAppDelegate.o
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaToDoItem.o
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/valentinaAddToDoItemViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/NewRelicAgent.framework/Versions/A/NewRelicAgent
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Link /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/ToDoList115"[1mLd[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/ToDoList normal x86_64bc797e9c99f5b841^3f729b9c99f5b841^---0#0#1#--1881"[1mLd[0m build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/ToDoList normal x86_64    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator -F/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator -F. -FToDoList -FToDoListTests -FToDoList/Images.xcassets -FToDoList/Images.xcassets/AppIcon.appiconset -FToDoList/Images.xcassets/LaunchImage.launchimage -F/Users/valentinaarmenise/Documents/Mobile/ToDoList -filelist /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/ToDoList.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework SystemConfiguration -lz -framework CoreTelephony -framework CoreGraphics -framework UIKit -framework Foundation -framework NewRelicAgent -Xlinker -dependency_info -Xlinker /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/ToDoList_dependency_info.dat -o /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/Objects-normal/x86_64/ToDoList36"4024F5B0-7A75-4DD9-965F-BD9399B61332-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CProcessInfoPlistFile /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/Info.plist /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/ToDoList-Info.plist
+s418748831.031063
+e418748831.032867
+r1
+xProcessInfoPlistFile
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/Info.plist
+x/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/ToDoList-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Process /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/ToDoList-Info.plist119"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/ToDoList.app/Info.plist [1mToDoList/ToDoList-Info.plist[0maf0a089f99f5b841^6e6a089f99f5b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/ToDoList-Info.plist0000000000000000^1009"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/ToDoList.app/Info.plist [1mToDoList/ToDoList-Info.plist[0m    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/ToDoList-Info.plist -genpkginfo /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/assetcatalog_generated_info.plist -o /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app/Info.plist36"203F1ADC-7AC8-4CEB-9EDE-BCA4F9F9FE89-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CProcessPCH /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-aznffjhmtwlpcbcwuubctpdyhibi/ToDoList-Prefix.pch.pch ToDoList/ToDoList-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418748826.938931
+e418748828.159774
+r1
+xProcessPCH
+x/var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-aznffjhmtwlpcbcwuubctpdyhibi/ToDoList-Prefix.pch.pch
+xToDoList/ToDoList-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/ToDoList-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile ToDoList/ToDoList-Prefix.pch302"[1mProcessPCH[0m /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-aznffjhmtwlpcbcwuubctpdyhibi/ToDoList-Prefix.pch.pch ToDoList/ToDoList-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2174f09a99f5b841^81e9289c99f5b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/ToDoList-Prefix.pch0000000000000000^4035"[1mProcessPCH[0m /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-aznffjhmtwlpcbcwuubctpdyhibi/ToDoList-Prefix.pch.pch ToDoList/ToDoList-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources/x86_64 -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources -F/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator -F. -FToDoList -FToDoListTests -FToDoList/Images.xcassets -FToDoList/Images.xcassets/AppIcon.appiconset -FToDoList/Images.xcassets/LaunchImage.launchimage -F/Users/valentinaarmenise/Documents/Mobile/ToDoList --serialize-diagnostics /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-aznffjhmtwlpcbcwuubctpdyhibi/ToDoList-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-aznffjhmtwlpcbcwuubctpdyhibi/ToDoList-Prefix.pch.d -c /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/ToDoList-Prefix.pch -o /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-aznffjhmtwlpcbcwuubctpdyhibi/ToDoList-Prefix.pch.pch36"C93E015D-0AA5-46E1-817F-DE5619CB3ADB-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CProcessPCH /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-fmkxwiejgkrcrgaxkanezxjbwxmz/ToDoList-Prefix.pch.pch ToDoList/ToDoList-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418748826.938727
+e418748828.136132
+r1
+xProcessPCH
+x/var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-fmkxwiejgkrcrgaxkanezxjbwxmz/ToDoList-Prefix.pch.pch
+xToDoList/ToDoList-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/ToDoList-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile ToDoList/ToDoList-Prefix.pch300"[1mProcessPCH[0m /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-fmkxwiejgkrcrgaxkanezxjbwxmz/ToDoList-Prefix.pch.pch ToDoList/ToDoList-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0876f09a99f5b841^9dd9229c99f5b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/ToDoList-Prefix.pch0000000000000000^4029"[1mProcessPCH[0m /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-fmkxwiejgkrcrgaxkanezxjbwxmz/ToDoList-Prefix.pch.pch ToDoList/ToDoList-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/valentinaarmenise/Documents/Mobile/ToDoList    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/valentinaarmenise/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-generated-files.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-own-target-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-all-target-headers.hmap -iquote /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/ToDoList-project-headers.hmap -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources/i386 -I/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/ToDoList.build/Release-iphonesimulator/ToDoList.build/DerivedSources -F/Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator -F. -FToDoList -FToDoListTests -FToDoList/Images.xcassets -FToDoList/Images.xcassets/AppIcon.appiconset -FToDoList/Images.xcassets/LaunchImage.launchimage -F/Users/valentinaarmenise/Documents/Mobile/ToDoList --serialize-diagnostics /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-fmkxwiejgkrcrgaxkanezxjbwxmz/ToDoList-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-fmkxwiejgkrcrgaxkanezxjbwxmz/ToDoList-Prefix.pch.d -c /Users/valentinaarmenise/Documents/Mobile/ToDoList/ToDoList/ToDoList-Prefix.pch -o /var/folders/mn/w0bmjr2j2xn0hzvbtgjw02pr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/ToDoList-Prefix-fmkxwiejgkrcrgaxkanezxjbwxmz/ToDoList-Prefix.pch.pch36"58153FB1-D58E-4B53-9557-B59F83B1C79E-
+b4474A3DC-164A-462E-AD01-C9DC50952FEC
+
+CTouch /Users/valentinaarmenise/Documents/Mobile/ToDoList/build/Release-iphonesimulator/ToDoList.app
+r0
+
